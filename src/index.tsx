@@ -51,7 +51,7 @@ if (process.env.NODE_ENV === 'development' && window.self === window.top) {
       },
       {
         location: locations.LOCATION_DIALOG,
-        component: <Dialog sdk={sdk as DialogExtensionSDK} />,
+        component: <Dialog sdk={sdk as FieldExtensionSDK} />,
       },
       {
         location: locations.LOCATION_ENTRY_SIDEBAR,

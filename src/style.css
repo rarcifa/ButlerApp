@@ -1,0 +1,155 @@
+.css-10dl36v {
+    display: flex;
+-webkit-box-pack: center;
+justify-content: center;
+-webkit-box-align: center;
+align-items: center;
+width: 7rem;
+padding: 0.1rem 0.1rem;
+text-transform: uppercase;
+font-size: 0.75rem;
+background: linear-gradient(
+90deg
+, rgb(80, 150, 239) 0%, rgb(56, 194, 155) 100%);
+color: rgb(255, 255, 255);
+text-align: center;
+border-radius: 3px;
+letter-spacing: 0.1rem;
+text-indent: 0.1rem;
+font-weight: 500;
+}
+
+body {
+    font-family: var(--font-stack-primary);
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--color-text-base);
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+
+  
+  .css-k008qs {
+    display: flex;
+  }
+  
+  .css-9tpvmn {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin-right: 1rem;
+  }
+  
+  .css-k008qs {
+    display: flex;
+  }
+  
+  .css-1b5bj2l {
+    color: rgb(180, 195, 202);
+    font-size: 0.75rem;
+  }
+  
+  .css-1xd3m0r {
+    font-size: 1rem;
+    text-transform: capitalize;
+  }
+  
+  .css-1phcpb1 {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+  }
+  
+  .css-14jukvq > img {
+    display: block;
+    height: 48px;
+    min-width: auto;
+    user-select: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .css-zdzpuy {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+  }
+  
+  .css-pivbrd {
+    display: flex !important;
+    padding: 0px !important;
+    position: relative;
+  }
+  .css-zdzpuy a {
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
+  
+  .space-m {
+    margin-left: 0.5rem;
+  }
+  .css-acwcvw {
+    margin-bottom: 1rem;
+  }
+
+  .css-acwcvww {
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  
+  .css-14jukvq {
+    width: 48px;
+    height: 48px;
+    overflow: hidden;
+    margin: 1rem;
+    position: relative;
+  }
+  
+  :root {
+    --font-stack-primary: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    --font-stack-mono: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace!important;
+    --color-element-lightest: #f7f9fa;
+    --color-element-light: #e5ebed;
+    --color-element-mid: #d3dce0;
+    --color-element-base: #c3cfd5;
+    --color-element-dark: #b4c3ca;
+    --color-text-dark: #192532;
+    --color-text-mid: #536171;
+    --color-text-base: #283848;
+    --color-text-light: #606c7c;
+    --color-text-lightest: #6a7889;
+    --color-contrast-mid: #192532;
+    --color-contrast-dark: #0c141c;
+    --color-contrast-light: #263545;
+    --color-blue-dark: #174e8c;
+    --color-blue-base: #2d64b3;
+    --color-blue-mid: #2e75d4;
+    --color-blue-light: #84b9f5;
+    --color-blue-lightest: #edf4fc;
+    --color-green-dark: #1a593e;
+    --color-green-base: #1a6848;
+    --color-green-mid: #16875d;
+    --color-green-light: #8ad6b1;
+    --color-red-lightest: #fbe3e2;
+    --color-red-light: #eb8d9b;
+    --color-red-mid: #cc3c52;
+    --color-red-base: #a03343;
+    --color-orange-base: #de8907;
+    --color-orange-mid: #f79b0c;
+    --color-orange-light: #ffd7a2;
+    --color-yellow-mid: #ffd354;
+    --color-white: #fff;
+    --color-positive-gradient: var(--color-green-mid);
+    --font-size-s: 0.75rem;
+    --font-size-m: 0.875rem;
+    --font-weight-demi-bold: 600;
+    --line-height-default: 1.5;
+    --spacing-xs: 0.5rem;
+    --spacing-m: 1rem;
+    --spacing-xl: 2rem;
+  }
